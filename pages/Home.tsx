@@ -109,13 +109,6 @@ export const Home: React.FC = () => {
                   </div>
                </div>
                <div className="flex items-center gap-3 text-white">
-                  <Award size={32} className="text-brand-accent" />
-                  <div className="flex flex-col">
-                    <span className="font-bold text-sm">Best of Houzz</span>
-                    <span className="text-[10px] uppercase tracking-widest text-slate-400">Service Award</span>
-                  </div>
-               </div>
-               <div className="flex items-center gap-3 text-white">
                   <HardHat size={32} className="text-brand-accent" />
                   <div className="flex flex-col">
                     <span className="font-bold text-sm">Safety First</span>
