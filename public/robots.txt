@@ -1,0 +1,15 @@
+# Robots.txt for Loya General Construction
+# https://loyageneralconstruction.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://loyageneralconstruction.com/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
+
+# Disallow admin or private areas (none currently)
+# Disallow: /admin/
+# Disallow: /private/

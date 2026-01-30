@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://loyageneralconstruction.com/</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://loyageneralconstruction.com/images/portfolio/adu-aerial-roof-san-diego.jpg</image:loc>
+      <image:title>ADU Construction San Diego - Loya General Construction</image:title>
+    </image:image>
+  </url>
+
+  <!-- About Page -->
+  <url>
+    <loc>https://loyageneralconstruction.com/about</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://loyageneralconstruction.com/images/portfolio/contractor-at-work-san-diego.jpg</image:loc>
+      <image:title>Licensed General Contractor San Diego</image:title>
+    </image:image>
+  </url>
+
+  <!-- Services Page -->
+  <url>
+    <loc>https://loyageneralconstruction.com/services</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://loyageneralconstruction.com/images/portfolio/adu-stucco-exterior-san-diego.jpg</image:loc>
+      <image:title>ADU Construction Services San Diego</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://loyageneralconstruction.com/images/portfolio/bathroom-remodel-marble-san-diego.jpg</image:loc>
+      <image:title>Bathroom Remodel Services San Diego</image:title>
+    </image:image>
+  </url>
+
+  <!-- Portfolio/Projects Page -->
+  <url>
+    <loc>https://loyageneralconstruction.com/projects</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://loyageneralconstruction.com/images/portfolio/adu-aerial-roof-san-diego.jpg</image:loc>
+      <image:title>ADU Construction Portfolio San Diego</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://loyageneralconstruction.com/images/portfolio/bathroom-remodel-marble-san-diego.jpg</image:loc>
+      <image:title>Bathroom Remodel Portfolio San Diego</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://loyageneralconstruction.com/images/portfolio/room-addition-framing-san-diego.jpg</image:loc>
+      <image:title>Room Addition Portfolio San Diego</image:title>
+    </image:image>
+  </url>
+
+  <!-- Service Areas Page -->
+  <url>
+    <loc>https://loyageneralconstruction.com/areas</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://loyageneralconstruction.com/contact</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Portfolio Images for Image Search SEO -->
+  <url>
+    <loc>https://loyageneralconstruction.com/images/portfolio/adu-aerial-roof-san-diego.jpg</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://loyageneralconstruction.com/images/portfolio/bathroom-remodel-marble-san-diego.jpg</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://loyageneralconstruction.com/images/portfolio/adu-stucco-exterior-san-diego.jpg</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://loyageneralconstruction.com/images/portfolio/room-addition-framing-san-diego.jpg</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://loyageneralconstruction.com/images/portfolio/concrete-foundation-rebar-san-diego.jpg</loc>
+    <lastmod>2026-01-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
